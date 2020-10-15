@@ -1,13 +1,13 @@
 # <div style="text-align: center;">Can I change that?</div>
 ## Predicting Outcomes of Charlotte, NC, Rezoning Requests
 
-For this project we used the Charlotte Rezoning Data and Charlote Quality Of Life Data points
+For this project we used the Charlotte Rezoning Data and Charlotte Quality Of Life Data points
 * Gather Data
     * Charlotte Zoning Request Feed
     * Charlotte Quality Of Life Excel Datasets
     * Clean and Merge different data sets
 * Predict Zoning Request Outcome
-    * Clasify, Encode, Transform and Scale
+    * Classify, Encode, Transform and Scale
     * MLM: K Nearest Neighbor
     * Unbalanced Data
     * MLM: Logistic Regression + SMOTE Method
