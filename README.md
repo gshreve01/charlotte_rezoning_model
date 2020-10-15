@@ -15,7 +15,7 @@ For this project we used the Charlotte Rezoning Data and Charlote Quality Of Lif
     * Tableau
     * Household Income VS Confirmed Cases
 
-![alt text](Readme.png "Charlotte Zoning NPA")
+![alt text](Readme.PNG "Charlotte Zoning NPA")
 
 # Implementation Approach
 ## Merging the Data
